@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w895222984_b494100_sleng_RiyanCoday.m3u8?enc=QNIbFuOBfZjRee2IRn5h6w&exp=1606733136
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w895222984_b684100_sleng_RiyanCoday.m3u8?enc=QNIbFuOBfZjRee2IRn5h6w&exp=1606733136

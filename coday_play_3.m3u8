@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
+https://vcdnjt.useetv.com/joss/194/nusantaratv/chunklist_w712574477_b494100_sleng_RiyanCoday.m3u8?enc=G-l_hUHM4kXqqOwnDM5FlA&exp=1606733138
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://vcdnjt.useetv.com/joss/194/nusantaratv/chunklist_w712574477_b684100_sleng_RiyanCoday.m3u8?enc=G-l_hUHM4kXqqOwnDM5FlA&exp=1606733138
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
+https://vcdnjt.useetv.com/joss/194/nusantaratv/chunklist_w712574477_b894100_sleng_RiyanCoday.m3u8?enc=G-l_hUHM4kXqqOwnDM5FlA&exp=1606733138
